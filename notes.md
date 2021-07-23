@@ -48,7 +48,7 @@ Example:
         * ✔ create next test case
         * ✔ cover next test case with implementation
         * ✔ check for possible refactoring
-        * 📃 create next test case
+        * ✔ create next test case
         * 📃 cover next test case with implementation
         * 📃 check for possible refactoring
         * 📃 create next test case
@@ -58,4 +58,5 @@ Example:
         * RED
         * GREEN
         * Refactor
+        * RED
     * Comment: 
