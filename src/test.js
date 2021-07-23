@@ -13,4 +13,9 @@ describe('Test "convert number to reversed array of digits" functions', () => {
     const digitize = new Digitize();
     expect(digitize.digitize(123)).toStrictEqual([3,2,1]);
   });
+  it('Random numbers', () => {
+    const digitize = new Digitize();
+    expect(digitize.digitize(35231)).toStrictEqual([1,3,2,5,3]);
+  });
+  
 });
