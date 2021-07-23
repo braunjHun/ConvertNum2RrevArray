@@ -22,8 +22,8 @@ Example:
  📃- todo
  
 ## Test cases
-1. 🚧 input(1) expected value = [1]
-1. 📃 input(12) expected value = [2,1]
+1. ✔ input(1) expected value = [1]
+1. 🚧 input(12) expected value = [2,1]
 1. 📃 input(123) expected value = [3,2,1]
 1. 📃 input(35231) expected value = [1,3,2,5,3]
 
@@ -35,11 +35,12 @@ Example:
         * ✔ plan first pomodoro activities
         * ✔ Create note.md and add general information 
         * ✔ create test.js and write first test case
-        * 📃 cover the first test case with implementation
+        * ✔ cover the first test case with implementation
         * 📃 check for possible refactoring
     * Commit log:
         * first pomodoro plan + Create note.md
         * RED
+        * GREEN
     * Comment: 
 1. Pomodoro session:
     * Plan:  
