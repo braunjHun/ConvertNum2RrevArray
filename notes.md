@@ -45,7 +45,7 @@ Example:
     * Comment: 
 1. Pomodoro session:
     * Plan:  
-        * 📃 create next test case
+        * ✔ create next test case
         * 📃 cover next test case with implementation
         * 📃 check for possible refactoring
         * 📃 create next test case
@@ -55,4 +55,5 @@ Example:
         * 📃 cover next test case with implementation
         * 📃 check for possible refactoring        
     * Commit log:
+        * RED
     * Comment: 
