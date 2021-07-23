@@ -24,7 +24,7 @@ Example:
 ## Test cases
 1. ✔ input(1) expected value = [1]
 1. ✔ input(12) expected value = [2,1]
-1. 📃 input(123) expected value = [3,2,1]
+1. 🚧 input(123) expected value = [3,2,1]
 1. 📃 input(35231) expected value = [1,3,2,5,3]
 
 
@@ -47,7 +47,7 @@ Example:
     * Plan:  
         * ✔ create next test case
         * ✔ cover next test case with implementation
-        * 📃 check for possible refactoring
+        * ✔ check for possible refactoring
         * 📃 create next test case
         * 📃 cover next test case with implementation
         * 📃 check for possible refactoring
@@ -57,4 +57,5 @@ Example:
     * Commit log:
         * RED
         * GREEN
+        * Refactor
     * Comment: 
