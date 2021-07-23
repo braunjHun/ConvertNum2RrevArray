@@ -1,17 +1,14 @@
 class Digitize {
     
     digitize(inputValue) {
-        
-        if (inputValue==1) {
-           return [1];
+        var intArr = [];
+        var inputString = inputValue.toString();
+        for (let i=inputString.length;i>0;i--) {
+           intArr.push(parseInt(inputString.substring(i-1, i)));
         }
-        if (inputValue==12) {
-           return [2,1];
-        }
- 
-        return [3,2,1];
+        console.log(intArr[0]);
+        return (intArr);
     }
-
 }
   
 module.exports = {
