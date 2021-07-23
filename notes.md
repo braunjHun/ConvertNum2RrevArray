@@ -50,7 +50,7 @@ Example:
         * ✔ check for possible refactoring
         * ✔ create next test case
         * ✔ cover next test case with implementation
-        * 📃 check for possible refactoring
+        * ✔ check for possible refactoring
         * 📃 create next test case
         * 📃 cover next test case with implementation
         * 📃 check for possible refactoring        
@@ -60,4 +60,5 @@ Example:
         * Refactor
         * RED
         * GREEN
+        * Refactor
     * Comment: 

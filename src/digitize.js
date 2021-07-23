@@ -1,11 +1,11 @@
 class Digitize {
     
-    digitize(n) {
+    digitize(inputValue) {
         
-        if (n==1) {
+        if (inputValue==1) {
            return [1];
         }
-        if (n==12) {
+        if (inputValue==12) {
            return [2,1];
         }
  
